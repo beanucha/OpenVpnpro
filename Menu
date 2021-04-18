@@ -1820,9 +1820,8 @@ echo ""
 echo "Script  install openvpn"
 echo "
 sudo -i
-wget https://ovpnpro.info/home/openvpn/openvpn-install.sh
+https://raw.githubusercontent.com/beanucha/OpenVpnpro/main/openvpn-install.sh
 - chmod +x openvpn-install.sh
-./openvpn-install.sh
 "
 # Install openvpn
 cd
